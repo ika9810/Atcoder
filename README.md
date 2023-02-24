@@ -1,9 +1,9 @@
 Atcoder
 ========
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fika9810%2FAtcoder&count_bg=%23FFC8C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![오늘의 문제](https://img.shields.io/badge/Today's%20ABC-Link-lightpink)](https://github.com/ika9810/Atcoder/blob/main/ABC.md) 
-[![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder/blob/main/ARC.md) 
-[![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder/blob/main/AGC.md) 
+[![오늘의 문제](https://img.shields.io/badge/Today's%20ABC-Link-lightpink)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ABC.md) 
+[![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ARC.md) 
+[![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/AGC.md) 
 [![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)
 
 ### ⚡️Atcoder Boot camp for Beginners by [AtCoder Problems](https://kenkoooo.com/atcoder/#/training)
